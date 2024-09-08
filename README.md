@@ -1,18 +1,19 @@
-# coding-console
-A way to use ChatGPT as a console (currently used for JAVA)
+# Coding Console
 
-Input into your new session 
+This repository contains code examples and utility commands to simulate a terminal-like environment for learning programming.
 
-    [PineappleHippy/coding-session/IDE.GPT.SSC]
+## Directory Structure
 
-To start coding session: 
+- `commands/` - Contains utility command files.
+- `examples/` - Contains example programs demonstrating command usage.
 
-    [UserCodeStarts]
+## How to Use
 
-To end coding session: 
+1. Download or clone this repository to your local machine.
+2. Use the commands in `commands/` as needed.
+3. Modify or create new commands in the `commands/` directory.
+4. Add or modify example programs in the `examples/` directory.
 
-    [UserCodeEnds]
+## License
 
-End all code with: 
-
-    [UserCodeCompiles]
+This project is licensed under the MIT License.
