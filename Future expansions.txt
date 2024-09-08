@@ -1,0 +1,8 @@
+5. Future Expansion
+
+	1.	Adding New Commands:
+	•	Add new command files to the commands directory as needed. Update commandCenter.java or create new files for additional functionality.
+	2.	Adapt for Other Languages:
+	•	Follow a similar approach for different languages. Create corresponding files and command structures for Python, C, or other languages you plan to learn.
+	3.	Maintain Flexibility:
+	•	Organize your commands and utilities in a way that allows easy addition and modification. Use GitHub’s version control to track changes and manage different versions.
