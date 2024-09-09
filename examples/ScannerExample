@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+public class ScannerExample {
+   public static void main (String[] args) {
+// Declares all variables
+      Scanner scnr = new Scanner (System.in);
+      int ageYears;
+      int ageMonths;
+      
+// System requests an type int input for user then multiplies by the months
+      ageYears = scnr.nextInt();
+      ageMonths = ageYears * 12;
+      
+// System outputs the total age in months instead of years.
+      System.out.println("Age in months is: " + ageMonths);
+   }
+}
+
+
+[UserCodeCompiles]
