@@ -8,3 +8,5 @@ public class ExampleProgram {
         CommandCenter.printFileContent("example.txt");
     }
 }
+
+[UserCodeCompiles]
