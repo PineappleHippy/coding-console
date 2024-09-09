@@ -1,0 +1,13 @@
+// IDE.GPT.SSC
+
+public class IDEGPT {
+    public static void main(String[] args) {
+        System.out.println("Initializing IDE.GPT...");
+        System.out.println("Available Commands:");
+        System.out.println("DIR - List files and directories");
+        System.out.println("CD <dir> - Change directory");
+        System.out.println("CD.. - Go up one directory");
+        System.out.println("HELP - Display help information");
+        System.out.println("Type 'HELP' for more details on each command.");
+    }
+}
